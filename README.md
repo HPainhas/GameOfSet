@@ -1,5 +1,4 @@
 # GameOfSet
-Project 2: The Game of Set
 
 ## Getting Started
 These instructions will show you how to get a copy of this project on your machine and how to use the software.
